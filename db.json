@@ -1,18 +1,19 @@
-[
-  {
-    "username":"nikhil.mp@somiya.edu",
-    "password":"Password"
-  },
-  {
-    "username":"nikhil.mp@somiya1.edu",
-    "password":"Password1"
-  },
-  {
-    "username":"nikhil.mp@somiya2.edu",
-    "password":"Password2"
-  },
-  {
-    "username":"nikhil.mp@somiya3.edu",
-    "password":"Password3"
-  }
-]
+{
+	"Users": [{
+			"username": "nikhil.mp@somiya.edu",
+			"password": "Password"
+		},
+		{
+			"username": "nikhil.mp@somiya1.edu",
+			"password": "Password1"
+		},
+		{
+			"username": "nikhil.mp@somiya2.edu",
+			"password": "Password2"
+		},
+		{
+			"username": "nikhil.mp@somiya3.edu",
+			"password": "Password3"
+		}
+	]
+}
